@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hemant Malav
-- 👀 I’m interested in Front-end development 
+- 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on front-end development
-- 📫 How to reach me...
+- 💞️ I’m looking to collaborate on full stack development
+- 📫 How to reach me...(Email : malavhemant5@gmail.com)
 
 <!---
 hemantmalav15/hemantmalav15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
